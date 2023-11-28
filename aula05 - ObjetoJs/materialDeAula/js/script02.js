@@ -23,4 +23,4 @@ class Produto {
 }
 
 var produto1 = new Produto(1, "Chocolate" , "Nestle" ,10,200,0)
-var produto2 = new Produto(2, "Refri" , "CocaCola",4,180,0 )
+var produto2 = new Produto(2, "Refri" , "CocaCola", 4,180,0 )
